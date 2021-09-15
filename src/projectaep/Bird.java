@@ -12,17 +12,8 @@ package projectaep;
  */
 public class Bird extends Batch{
     
-    private double weight;
     private String breed;
     private int age;
-
-    public double getWeight() {
-        return weight;
-    }
-
-    public void setWeight(double weight) {
-        this.weight = weight;
-    }
 
     public String getBreed() {
         return breed;
